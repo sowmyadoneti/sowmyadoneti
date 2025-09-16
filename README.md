@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sowmya Doneti!</h1>
+<h1 align="center">Hi there 👋, I'm Sowmya!</h1>
 <h3 align="center">🚀 Software Engineer | Backend Developer | 🔗 Distributed Systems | ☁️ Cloud Computing | 🏆 Competitive Programmer</h3> 
 
 ### About Me
